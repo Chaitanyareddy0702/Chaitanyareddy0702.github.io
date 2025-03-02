@@ -47,10 +47,6 @@ export default function Achievements() {
           <span className="font-semibold">Academic Excellence:</span> Consistently maintained a CGPA above 8.5
           throughout the B.Tech program
         </li>
-        <li className="mb-4">
-          <span className="font-semibold">Hackathon Winner:</span> First place in the college-level AI hackathon for
-          developing an innovative solution for healthcare diagnosis
-        </li>
       </motion.ul>
     </motion.section>
   )

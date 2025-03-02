@@ -12,7 +12,7 @@ import Achievements from "./components/Achievements"
 
 export default function Home() {
   return (
-    <main className="min-h-screen bg-fixed bg-cover bg-center" style={{ backgroundImage: "url('/background.jpg')" }}>
+    <main className="min-h-screen bg-fixed bg-cover bg-center" style={{ backgroundImage: "url('/background.jpeg')" }}>
       <div className="backdrop-blur-sm bg-black bg-opacity-70">
         <Header />
         <motion.div
