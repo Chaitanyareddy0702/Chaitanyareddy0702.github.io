@@ -29,7 +29,7 @@ export default function Header() {
             transition={{ delay: 0.7 }}
             className="text-xl text-blue-300"
           >
-            Software Engineer, Free Lancer
+            Software Engineer, Freelancer
           </motion.p>
         </div>
         <nav className="hidden md:block">
